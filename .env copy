@@ -1,0 +1,12 @@
+# ----Core API key ----
+PINECONE_API_KEY= pcsk_
+
+DEEPINE_API_KEY= sk-
+
+
+# SQL Database credentials for the Admin
+SQL_ADMIN_USER = 
+SQL_ADMIN_PASSWORD =
+
+# Database SQL stettings
+# SQL_SERVER_HOST = localhost
